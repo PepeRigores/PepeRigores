@@ -41,8 +41,8 @@
 
 ## 📫 Cómo contactarme
 
-- Email: **tucorreo@example.com**
-- LinkedIn: [Tu Perfil](https://linkedin.com/in/tuusuario)
+- Email: **13761593@alu.murciaeduca.es**
+- LinkedIn: [Tu Perfil](www.linkedin.com/in/pepe-rigores-421170352)
 - Web personal: (próximamente)
 
 ---
