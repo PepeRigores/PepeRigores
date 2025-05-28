@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Pepe Rigores
+# 👋 ¡Hola! Soy Jose Conesa (Pepe Rigores)
 
 🎓 Desarrollador en formación | 💻 Amante del software libre | 🚀 Apasionado por la tecnología
 
