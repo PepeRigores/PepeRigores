@@ -32,9 +32,9 @@
 
 ## 🛠️ Repositorios destacados
 
-🔸 [**Mi portafolio web**](https://github.com/PepeRigores/pagina-bienvenida)  
-🔸 [**Ejercicios de programación**](https://github.com/PepeRigores/Academia)  
-🔸 [**Apuntes de clase**](https://github.com/PepeRigores/EjemplosEnClase)
+🔸 [**pagina-bienvenida**](https://github.com/PepeRigores/pagina-bienvenida)  
+🔸 [**primer proyecto LMM**](https://github.com/PepeRigores/Academia)  
+🔸 [**Ejemplo en clase**](https://github.com/PepeRigores/EjemplosEnClase)
 
 ---
 
