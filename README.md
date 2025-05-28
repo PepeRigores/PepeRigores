@@ -1,4 +1,5 @@
-# 👋 ¡Hola! Soy Jose Conesa (Pepe Rigores)
+# 👋 ¡Hola! Soy Jose Conesa Nicolas
+###  (Pepe Rigores para los amigos)
 
 🎓 Desarrollador en formación | 💻 Amante del software libre | 🚀 Apasionado por la tecnología
 
@@ -10,16 +11,20 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=flat)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff&style=flat)
+
 
 ---
 
 ## 📚 Actualmente aprendiendo
 
+- Programación en **Java** y **Python**
 - Desarrollo web con **HTML, CSS y JavaScript**
-- Frameworks como **Django** y **Flask**
+- Frameworks como **Django** y **React**
+- Bases de Datos relacionales: **PostgreSQL**
 - Administración de sistemas **Linux**
 - Buenas prácticas de programación y control de versiones
 
@@ -27,9 +32,9 @@
 
 ## 🛠️ Repositorios destacados
 
-🔸 [**Mi portafolio web**](https://github.com/PepeRigores/mi-portafolio)  
-🔸 [**Ejercicios de programación**](https://github.com/PepeRigores/ejercicios-programacion)  
-🔸 [**Apuntes de clase**](https://github.com/PepeRigores/apuntes-clase)
+🔸 [**Mi portafolio web**](https://github.com/PepeRigores/pagina-bienvenida)  
+🔸 [**Ejercicios de programación**](https://github.com/PepeRigores/Academia)  
+🔸 [**Apuntes de clase**](https://github.com/PepeRigores/EjemplosEnClase)
 
 ---
 
@@ -42,7 +47,7 @@
 ## 📫 Cómo contactarme
 
 - Email: **13761593@alu.murciaeduca.es**
-- LinkedIn: [Tu Perfil](www.linkedin.com/in/pepe-rigores-421170352)
+- LinkedIn: www.linkedin.com/in/pepe-rigores-421170352
 - Web personal: (próximamente)
 
 ---
