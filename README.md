@@ -14,13 +14,12 @@
    <img title="CSS3" alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png"/>
    <img title="PHP" alt="PHP" src="https://www.kindpng.com/picc/m/11-118738_php-logo-png-circle-transparent-png.png" alt="express" width="48" height="48"/>
    <img title="Python" alt="Python" src="https://img.icons8.com/color/48/000000/python.png"/>
-   <img title="PostgreSQL" alt="PostgreSQL" src="https://iconos8.es/icon/JRnxU7ZWP4mi/postgresql"/>
+   <img title="PostgreSQL" alt="PostgreSQL" src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000"/>
    <img title="MySQL" alt="MySQL" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> 
    <img title="Angular" alt="Angular" src="https://img.icons8.com/color/48/BDBDBD/angularjs.png"/> 
    <img title="C#" alt="Angular" src="https://img.icons8.com/color/875EFF/48/c-sharp-logo.png"/> 
    <img title="TypeScript" alt="Angular" src="https://img.icons8.com/color/0D61A9/48/typescript"/> 
    <img title="Bootsrap" alt="Angular" src="https://img.icons8.com/color/673AB7/48/bootstrap"/> 
-   
   
 </p>
 
