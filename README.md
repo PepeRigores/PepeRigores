@@ -7,19 +7,20 @@
 
 ## 🔧 <b>Tecnologías y herramientas que manejo</b>
 
-<p align="left"> 
+<p align="center"> 
    <img title="Java" alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/ >
    <img title="Javascript" alt="Javascript" src="https://img.icons8.com/color/48/000000/javascript.png"/>
    <img title="HTML5" alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5.png"/>
    <img title="CSS3" alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png"/>
    <img title="PHP" alt="PHP" src="https://www.kindpng.com/picc/m/11-118738_php-logo-png-circle-transparent-png.png" alt="express" width="48" height="48"/>
    <img title="Python" alt="Python" src="https://img.icons8.com/color/48/000000/python.png"/>
+   <img title="PostgreSQL" alt "PostgreSQL" src="https://iconos8.es/icon/JRnxU7ZWP4mi/postgresql"/>
    <img title="MySQL" alt="MySQL" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> 
    <img title="Angular" alt="Angular" src="https://img.icons8.com/color/48/BDBDBD/angularjs.png"/> 
-   <img title="Angular" alt="Angular" src="https://img.icons8.com/color/875EFF/48/c-sharp-logo.png"/> 
-   <img title="Angular" alt="Angular" src="https://img.icons8.com/color/0D61A9/48/typescript"/> 
-   <img title="Angular" alt="Angular" src="https://img.icons8.com/color/673AB7/48/bootstrap"/> 
-   <img title="Angular" alt="Angular" src="https://img.icons8.com/color/673AB7/48/oracle-logo"/> 
+   <img title="C#" alt="Angular" src="https://img.icons8.com/color/875EFF/48/c-sharp-logo.png"/> 
+   <img title="TypeScript" alt="Angular" src="https://img.icons8.com/color/0D61A9/48/typescript"/> 
+   <img title="Bootsrap" alt="Angular" src="https://img.icons8.com/color/673AB7/48/bootstrap"/> 
+   
   
 </p>
 
