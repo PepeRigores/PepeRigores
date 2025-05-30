@@ -5,16 +5,23 @@
 
 ---
 
-## 🔧 Tecnologías y herramientas que manejo
+## 🔧 <b>Tecnologías y herramientas que manejo</b>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=flat)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff&style=flat)
+<p align="left"> 
+   <img title="Java" alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/ >
+   <img title="Javascript" alt="Javascript" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+   <img title="HTML5" alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5.png"/>
+   <img title="CSS3" alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png"/>
+   <img title="PHP" alt="PHP" src="https://www.kindpng.com/picc/m/11-118738_php-logo-png-circle-transparent-png.png" alt="express" width="48" height="48"/>
+   <img title="Python" alt="Python" src="https://img.icons8.com/color/48/000000/python.png"/>
+   <img title="MySQL" alt="MySQL" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> 
+   <img title="Angular" alt="Angular" src="https://img.icons8.com/color/48/BDBDBD/angularjs.png"/> 
+   <img title="Angular" alt="Angular" src="https://img.icons8.com/color/875EFF/48/c-sharp-logo.png"/> 
+   <img title="Angular" alt="Angular" src="https://img.icons8.com/color/0D61A9/48/typescript"/> 
+   <img title="Angular" alt="Angular" src="https://img.icons8.com/color/673AB7/48/bootstrap"/> 
+   <img title="Angular" alt="Angular" src="https://img.icons8.com/color/673AB7/48/oracle-logo"/> 
+  
+</p>
 
 
 ---
