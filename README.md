@@ -41,7 +41,7 @@
 
 🔸 [**Página-Bienvenida - CV**](https://github.com/PepeRigores/pagina-bienvenida)  
       https://peperigores.github.io/pagina-bienvenida/  
-🔸 [**Tarea para Lenguajes de MArca: Academia**](https://github.com/PepeRigores/Academia)  
+🔸 [**Tarea para Lenguajes de Marcas: Academia**](https://github.com/PepeRigores/Academia)  
       https://peperigores.github.io/Academia/  
 🔸 [**Ejemplos en clase**](https://github.com/PepeRigores/EjemplosEnClase)
 
