@@ -39,8 +39,10 @@
 
 ## 🛠️ Repositorios destacados
 
-🔸 [**pagina-bienvenida**](https://github.com/PepeRigores/pagina-bienvenida)  
-🔸 [**Primer proyecto LMM: Academia**](https://github.com/PepeRigores/Academia)  
+🔸 [**pagina-bienvenida**](https://github.com/PepeRigores/pagina-bienvenida) 
+-  https://peperigores.github.io/pagina-bienvenida/
+🔸 [**Primer proyecto LMM: Academia**](https://github.com/PepeRigores/Academia)
+-  https://peperigores.github.io/Academia/
 🔸 [**Ejemplos en clase**](https://github.com/PepeRigores/EjemplosEnClase)
 
 ---
